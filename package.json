@@ -1,0 +1,24 @@
+{
+  "name": "algo.js",
+  "version": "1.0.0",
+  "description": "Algo avec Javascript",
+  "main": "ex 1_1.js",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JER89/algo.js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JER89/algo.js/issues"
+  },
+  "homepage": "https://github.com/JER89/algo.js#readme"
+}
