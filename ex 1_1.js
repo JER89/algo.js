@@ -1,6 +1,6 @@
 
 
-const readlineSync = require("readline-sync");
+/* const readlineSync = require("readline-sync");
 
 let userName = readlineSync.question('Can you give me your name please?');
 console.log("Hello " + userName);
@@ -15,9 +15,9 @@ let  htmlBadges  =  new  Number ( readlineSync . question ( 'Combien de badges H
 
 let  cssBadges  =  new  Number ( readlineSync . question ( 'Combien de badges CSS avez-vous?' ) ) ; 
 
-laissez  totalBadges  =  htmlBadges  +  cssBadges ; 
+let totalBadges  =  htmlBadges  +  cssBadges ; 
 
-console . log ( 'Woaw, vous avez'  +  totalBadges  +  "!" ) ;
+console . log ( 'Woaw, vous avez'  +  totalBadges  +  "!" ) ; */
 
 
 let name = "Jérémy";
