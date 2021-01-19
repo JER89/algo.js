@@ -14,3 +14,4 @@ if (((Number(current)) >= (Number(min))) && ((Number(current)) <= (Number(max)))
 if ((Number(min)) > (Number(max))) {
     console.log ("Sorry! Your request is not valid...")
 }
+
