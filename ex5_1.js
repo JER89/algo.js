@@ -10,8 +10,8 @@ let task = {
 
 function askTVserie () {
     task.serie = readlineSync.question("What's your favorite serie? ");
-    task.year = Number (readlineSync.question("Year of achievement?"));
-    task.name = (readlineSync.question("Name of the actors"));
+    task.year = Number (readlineSync.question("Year of achievement? "));
+    task.name = (readlineSync.question("Name of the actors "));
 
      
     return task;
@@ -19,6 +19,7 @@ function askTVserie () {
 }
 
 console.log(askTVserie());
+
 
 
 

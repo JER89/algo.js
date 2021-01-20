@@ -2,7 +2,7 @@
 const readlineSync = require("readline-sync");
 
 function grab() {
-    n = new Number(readlineSync.question("Enter a number: "));
+    n = Number(readlineSync.question("Enter a number: "));
 }
 
 function factorial(n) {
