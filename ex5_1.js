@@ -18,7 +18,7 @@ function askTVserie () {
     
 }
 
-console.log(askTVserie(task));
+console.log(askTVserie());
 
 
 
