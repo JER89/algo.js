@@ -19,6 +19,7 @@ function askTVserie () {
 }
 
 console.log(askTVserie());
+console.log(JSON.stringify(task));
 
 
 
